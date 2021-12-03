@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\reversal - 17\reversal - 17\obj\Debug\reversal - 17.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\reversal - 17\reversal - 17\bin\Debug\reversal - 17.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\reversal - 17\reversal - 17\bin\Debug\reversal - 17.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\reversal - 17\reversal - 17\obj\Debug\reversal - 17.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\reversal - 17\reversal - 17\obj\Debug\reversal - 17.pdb
